@@ -6,7 +6,7 @@ module.exports = {
         data: "data"
       },
       peers: [
-        "https://github.com/peanutcocktail/a"
+        "https://github.com/peanutcocktail/c.git"
       ]
     }
   }]
